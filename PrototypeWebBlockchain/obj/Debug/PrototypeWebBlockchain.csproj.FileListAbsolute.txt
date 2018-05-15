@@ -1,0 +1,521 @@
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\rsumalde\documents\visual studio 2015\Projects\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csprojResolveAssemblyReference.cache
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csproj.CoreCompileInputs.cache
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Backup Files\PrototypeWebBlockchain4\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV1\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csprojResolveAssemblyReference.cache
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2015\Projects\PrototypeWebBlockchainV2\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\BouncyCastle.Crypto.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Common.Logging.Core.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.ABI.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.Accounts.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.Contracts.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.Hex.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.Client.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.KeyStore.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.RLP.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.RPC.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.Signer.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.Util.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Nethereum.Web3.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Common.Logging.Core.pdb
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Common.Logging.Core.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\pcuser\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\BouncyCastle.Crypto.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Common.Logging.Core.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.ABI.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.Accounts.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.Contracts.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.Hex.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.Client.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.KeyStore.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.RLP.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.RPC.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.Signer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.Util.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Nethereum.Web3.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Common.Logging.Core.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Common.Logging.Core.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csprojResolveAssemblyReference.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csproj.CoreCompileInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csproj.CopyComplete
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV4\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\BouncyCastle.Crypto.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Common.Logging.Core.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.ABI.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.Accounts.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.Contracts.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.Hex.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.Client.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.KeyStore.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.RLP.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.RPC.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.Signer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.Util.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Nethereum.Web3.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Common.Logging.Core.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Common.Logging.Core.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csproj.CoreCompileInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csproj.CopyComplete
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV5\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csprojResolveAssemblyReference.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csproj.CoreCompileInputs.cache
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\ApplicationInsights.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\csc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\vbc.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll.config
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\PrototypeWebBlockchain.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Antlr3.Runtime.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\BouncyCastle.Crypto.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Common.Logging.Core.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Dapper.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Auth.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Core.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Drive.v3.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.PlatformServices.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.Web.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.ABI.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.Accounts.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.Contracts.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.Hex.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.Client.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.KeyStore.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.RLP.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.RPC.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.Signer.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.Util.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Nethereum.Web3.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Newtonsoft.Json.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Helpers.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Mvc.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Optimization.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Webpages.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\WebGrease.dll
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Antlr3.Runtime.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Common.Logging.Core.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Common.Logging.Core.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Dapper.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Auth.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Auth.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Core.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Core.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Drive.v3.pdb
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Google.Apis.Drive.v3.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.Web.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\Newtonsoft.Json.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Optimization.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Webpages.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Webpages.Deployment.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Webpages.Razor.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Helpers.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\bin\System.Web.Mvc.xml
+C:\Users\rsumalde\Documents\Visual Studio 2017\Projects\PrototypeWebBlockchainV6\PrototypeWebBlockchain\obj\Debug\PrototypeWebBlockchain.csproj.CopyComplete
