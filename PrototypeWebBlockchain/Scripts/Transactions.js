@@ -4,6 +4,8 @@
     success: function (JTransaction) {
         if (JTransaction)
 
+            $('#loader').show();
+
             for (var i = 0; i < JTransaction["JTransaction"].length; i++) {
 
                 var token = $('#TokenForm input[name=__RequestVerificationToken]').val();
@@ -29,6 +31,7 @@
                 }
 
             }
-
+                $('#transactiontable').show();
+                $('#loader').hide();
     }
 });

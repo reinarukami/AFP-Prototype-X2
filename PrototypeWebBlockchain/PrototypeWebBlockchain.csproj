@@ -224,6 +224,9 @@
     <Content Include="images\E89818DD9D73193B61A4BD50A049BAA6750FDD277AF0A96219F2BBB6D3BFBD72.jpg" />
     <Content Include="images\EF5FEBB1508C3CABBEF97D7C029403921EA39FB4151B4321D056566FFD5C0679.jpg" />
     <Content Include="images\F40F5F8B5EA5D4CD25830ADE7761AF48FE1CE5AA6EC04C86EAD735BD002346AB.jpg" />
+    <Content Include="images\Status\check.png" />
+    <Content Include="images\Status\cross.png" />
+    <Content Include="images\Status\loader.gif" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
